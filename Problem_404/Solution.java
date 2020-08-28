@@ -26,7 +26,7 @@ class Solution {
         return sum;
     }
 
-    public class TreeNode {
+    static private class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
